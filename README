@@ -1,1 +1,9 @@
 A printing server listening on port 8080
+
+Set up printer on linux:
+	Go to "localhost:631", Administrator, Add printer
+	Type username and password
+	Choose a printer name from the list
+	Name and description
+	Add PPD file, download from openprinting
+	Done!
